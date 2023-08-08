@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Cadastro</string>
+    <string-array name="estados">
+        <item>Selecione um estado</item>
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+        <item>Goiás</item>
+        <item>Rio Grande do Norte</item>
+        <item>Amazonas</item>
+        <item>Sergipe</item>
+    </string-array>
 </resources>
